@@ -1,0 +1,7 @@
+
+site:
+  title: Openscape community
+  description: A community effort to develop openscape, an accessible spacial audio app for the blind
+  base_url: https://openscape.io
+posts:
+  rss: rss.xml
