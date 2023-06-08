@@ -6,7 +6,7 @@ This is Openscape, a community revival and continuation of Soundscape. You can f
 
 
 {% for post in collections.posts.pages %}
-#### {{post.title}}
+### {{post.title}}
 
 [{{ post.title }}]({{ post.permalink }})
 {% endfor %}
